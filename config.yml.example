@@ -33,7 +33,7 @@ service_type: null
 # ------------------------------- Elasticsearch -------------------------------
 
 # The host of the Elasticsearch deployment.
-elasticsearch.host: https://host.docker.internal:9200
+elasticsearch.host: https://localhost:9200
 
 
 # The API key for Elasticsearch connection.
